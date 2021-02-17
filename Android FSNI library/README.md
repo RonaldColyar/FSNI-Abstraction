@@ -1,0 +1,1 @@
+This is a Tool to assist android developers with the creation of a common user. by calling one function this tool will :create a user of your choice(any object) in firebase database , create the user in firebase auth  and store the users profile picture in firebase storage!
